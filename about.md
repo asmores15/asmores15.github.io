@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! I'm Anastasia Frattarole, a recent graduate from UNLV with a BSEG in Computer Engineering! While I'm looking for a job, I figured I'd work on some projects to keep my skills sharp. I wanted a place to document my progress, so that's why I made this little website. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ajfrattarole@yahoo.com](mailto:ajfrattarole@yahoo.com)
