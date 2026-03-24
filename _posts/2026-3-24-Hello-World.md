@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my website!
 ---
 
-Hello! I found out that you can host a website off of GitHub, so I made one to document my progress on my personal projects. I recently graduated from UNLV with a BSEG in Computer Engineering. I've been looking for a job for a few months, so just to make sure my skills don't get rusty, I'm going to be working on some projects using what I learned in my classes.
+Hello! I found out that you can host a website off of GitHub, so I made one to document my progress on my personal projects. I recently graduated from UNLV with a BSE in Computer Engineering. I've been looking for a job for a few months, so just to make sure my skills don't get rusty, I'm going to be working on some projects using what I learned in my classes.
 
 I did projects while in school, but I want to do more than just what was required for the assignments at the time.
 
@@ -13,6 +13,6 @@ I hope to post here at least once a week, maybe more, maybe less, depending on h
 
 Thanks for looking at my website? Blog? Whatever it is, I hope you enjoy it :)
 
-- Anastasia
+\- Anastasia
 
 P.S. I'm still figuring out how to configure different things on here, so please be patient if anything looks weird or boring.
