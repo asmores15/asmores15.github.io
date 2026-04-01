@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post \#1 (Intel 8080)
+title: Post 1 (Intel 8080)
 ---
 
 The reason I chose this project is because I was reading *Code: The Hidden Language of Computer Hardware and Software*
